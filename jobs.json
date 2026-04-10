@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Salesforce Developer",
+        "description": "Experience with Apex, Lightning Web Components (LWC), SOQL, and Salesforce CRM integration."
+    },
+    {
+        "role": "Agiloft Developer",
+        "description": "Knowledge of Agiloft No-Code platform, workflow automation, and contract lifecycle management (CLM)."
+    },
+    {
+        "role": "QA Automation Engineer",
+        "description": "Proficiency in Selenium, Java, PyTest, API testing, and CI/CD pipelines."
+    },
+    {
+        "role": "Frontend Developer",
+        "description": "Expertise in React, Vue.js, Tailwind CSS, and building responsive user interfaces."
+    }
+]
